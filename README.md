@@ -1,6 +1,3 @@
-# javascript_challenge
-JavaScript Coding Project
-
 # Project Details
 
 ## Background
