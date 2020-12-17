@@ -8,7 +8,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 
 ## Project Start-Up and Objectives
- * index.html file provided by the challenge source
+ * index.html and style.css files were provided by the challenge source
  * UFO Sightings Dataset (data.js) provided by challenge source.  Data set is JSON object.
  * Level 1:
    * Add a table to the website and append a row of data for each sighting.
