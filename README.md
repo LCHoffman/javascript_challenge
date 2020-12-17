@@ -7,9 +7,10 @@ That's why we are hiring you. We need you to write code that will create a table
 You can handle this... right? The planet Earth needs to know what we have found!
 
 
-## Project Start-Up
+## Project Start-Up and Objectives
  * index.html file provided by the challenge source
- * UFO Sightings Dataset (data.js) provided by challenge source.  Data set is an array of JavaScript objects.
+ * UFO Sightings Dataset (data.js) provided by challenge source.  Data set is JSON object.
  * Level 1:
    * Add a table to the website and append a row of data for each sighting.
    * Allow for user to input a data and return sightings for that date.
+   * Filter and display the data for an entered date.
